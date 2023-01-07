@@ -5,15 +5,6 @@
     "first_project_backend": {
       "type": "motoko",
       "main": "src/first_project_backend/main.mo"
-    },
-    "first_project_frontend": {
-      "type": "assets",
-      "source": [
-        "src/first_project_frontend/assets"
-      ],
-      "dependencies": [
-        "first_project_backend"
-      ]
     }
   },
   "defaults": {
